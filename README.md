@@ -79,21 +79,21 @@ ros2 service type <service_name>
 
 ## Turtlesim:
 To use turtlesim:
-    Open 2 terminals:
-    Source ROS2 in both of them using:
-    ```
-    source /opt/ros/humble/setup.bash
-    ```
-    Note: "source" is the same as "." so you can use either of them in the command.
-    Run turtlesim node in one terminal:
-    ```
-    ros2 run turtlesim turtlesim_node
-    ```
-    Run teleop node in the other terminal:
-    ```
-    ros2 run turtlesim turtle_teleop_key
-    ```
-    Now play with the previous commands to see the nodes, topics and services running
+Open 2 terminals:
+Source ROS2 in both of them using:
+```
+source /opt/ros/humble/setup.bash
+```
+Note: "source" is the same as "." so you can use either of them in the command.
+Run turtlesim node in one terminal:
+```
+ros2 run turtlesim turtlesim_node
+```
+Run teleop node in the other terminal:
+```
+ros2 run turtlesim turtle_teleop_key
+```
+Now play with the previous commands to see the nodes, topics and services running
 
 ------
 
