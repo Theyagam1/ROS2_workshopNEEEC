@@ -20,9 +20,9 @@ Here you can find all the necessary commands to do well in this  workshop!
 ## ROS2 Essential Commands:
 
 Source ROS2:
-'''
+```
 source /opt/ros/humble/setup.bash
-'''
+```
 
 Run a node:
 ---
